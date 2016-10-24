@@ -3,7 +3,7 @@ Cartridge-Short-Name: RABBITMQ
 Cartridge-Version: '0.1'
 Compatible-Versions:
   - '0.1'
-Cartridge-Vendor: chrigu-ebert
+Cartridge-Vendor: chrigu
 Categories:
   - embedded
   - service
