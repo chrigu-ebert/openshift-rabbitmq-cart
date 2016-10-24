@@ -10,7 +10,9 @@ then
     client_error 'Erlang must be installed. See https://github.com/commonsmachinery/openshift-rabbitmq-cart#installation'
     exit 1
 fi    
-    
+        
+# TODO: fix erl installation
+PATH=$PATH:~/erlang/usr/bin/
 
 # TODO: use version argument or manifest file
 version=3.2.4
